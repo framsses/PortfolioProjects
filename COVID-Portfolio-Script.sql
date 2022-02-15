@@ -1,8 +1,9 @@
 /*
 
 COVID 19 Data Exploration
+USING MySQL and DBeaver
 
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
+Skills used: Import data, Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 			Creating Views, Converting Data Types
 			
 */
